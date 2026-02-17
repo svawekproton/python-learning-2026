@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Alice Johnson",
+    "email": "alice.johnson@gmail.com"
+  },
+  {
+    "id": "3",
+    "name": "Charlie Brown",
+    "email": "charlie.brown@gmail.com"
+  },
+  {
+    "id": "5",
+    "name": "Eve Anderson",
+    "email": "eve.anderson@gmail.com"
+  },
+  {
+    "id": "7",
+    "name": "Grace Lee",
+    "email": "grace.lee@gmail.com"
+  },
+  {
+    "id": "8",
+    "name": "Henry Ford",
+    "email": "henry.ford@gmail.com"
+  },
+  {
+    "id": "10",
+    "name": "Jack Ryan",
+    "email": "jack.ryan@gmail.com"
+  }
+]
