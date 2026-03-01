@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest
+.pytest_cache/
+
+# Logs (додай це, щоб твій logs.log теж не потрапив у Git!)
+*.log
+logs.log
+
+# Mac/OSX (якщо сидиш на маку)
+.DS_Store
+
+# Віртуальне середовище (знадобиться з 3-го дня)
+venv/
+env/
+.env
