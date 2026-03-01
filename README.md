@@ -7,7 +7,7 @@
 | Day | Topic | Status | Date |
 |-----|-------|--------|------|
 | 1 | Python Basics + CSV | ✅ | Feb 17 |
-| 2 | OOP + Decorators | ⏳ | - |
+| 2 | OOP + Decorators | ✅ | March 1 |
 | 3 | Flask API | ⏳ | - |
 | 4 | Flask Templates | ⏳ | - |
 | 5 | SQLAlchemy | ⏳ | - |
