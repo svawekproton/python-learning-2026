@@ -6,14 +6,14 @@ __pycache__/
 # Pytest
 .pytest_cache/
 
-# Logs (додай це, щоб твій logs.log теж не потрапив у Git!)
+# Logs
 *.log
 logs.log
 
-# Mac/OSX (якщо сидиш на маку)
+# Mac/OSX
 .DS_Store
 
-# Віртуальне середовище (знадобиться з 3-го дня)
+# Virtual environment
 venv/
 env/
 .env

@@ -8,7 +8,7 @@
 |-----|-------|--------|------|
 | 1 | Python Basics + CSV | ✅ | Feb 17 |
 | 2 | OOP + Decorators | ✅ | March 1 |
-| 3 | Flask API | ⏳ | - |
+| 3 | Flask API | ✅ | March 2 |
 | 4 | Flask Templates | ⏳ | - |
 | 5 | SQLAlchemy | ⏳ | - |
 | 6-7 | Blog API (Flask) | ⏳ | - |
