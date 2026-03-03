@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block title %}All Users{% endblock %}
+{% block content %}
+  <h2>All users</h2>
+  <ul>
+    {% for user in users %}
+      <li>
+        {{ user["name"] }} - {{ user["role"] }}
+        <form method="post", action="{{ url_for('delete_user', user_id=user['id']) }}", style="display: inline">
+          <button type="submit" onclick="return confirm('Are you sure?')">Delete</button>
+        </form>
+      </li>
+    {% else %}
+      <li>No users found.</li>
+    {% endfor %}
+  </ul>
+
+  <h2>Add new user</h2>
+  {% if error %}
+    <p class=error><strong>Error:</strong>{{ error }}</p>
+  {% endif %}
+  <form method="post", action="{{ url_for('all_users') }}">
+    <label for="user_name">User name:</label><br>
+    <input type="text" id="user_name" name="name" required><br>
+    <label for="user_role">User role:</label><br>
+    <input type="text" id="user_role" name="role" required><br>
+
+    <button type="submit">Create User</button>
+  </form>
+
+{% endblock %}
