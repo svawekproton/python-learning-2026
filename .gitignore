@@ -17,3 +17,8 @@ logs.log
 venv/
 env/
 .env
+
+# Local database
+instance/
+*.db
+*.sqlite3
