@@ -11,7 +11,7 @@
 | 3 | Flask API | ✅ | March 2 |
 | 4 | Flask Templates | ✅ | March 3 |
 | 5 | SQLAlchemy | ✅ | March 4 |
-| 6-7 | Blog API (Flask) | ⏳ | - |
+| 6-7 | Blog API (Flask) | ✅ | March 20 |
 | 8 | FastAPI Intro | ⏳ | - |
 | 9 | Auth + Background Tasks | ⏳ | - |
 | 10 | Testing + Deployment | ⏳ | - |

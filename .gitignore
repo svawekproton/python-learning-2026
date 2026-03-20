@@ -12,6 +12,7 @@ logs.log
 
 # Mac/OSX
 .DS_Store
+.vscode/
 
 # Virtual environment
 venv/
