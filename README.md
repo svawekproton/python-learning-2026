@@ -12,7 +12,7 @@
 | 4 | Flask Templates | ✅ | March 3 |
 | 5 | SQLAlchemy | ✅ | March 4 |
 | 6-7 | Blog API (Flask) | ✅ | March 20 |
-| 8 | FastAPI Intro | ⏳ | - |
+| 8 | FastAPI Intro | ✅ | March 23 |
 | 9 | Auth + Background Tasks | ⏳ | - |
 | 10 | Testing + Deployment | ⏳ | - |
 | 11 | Async/Await | ⏳ | - |
